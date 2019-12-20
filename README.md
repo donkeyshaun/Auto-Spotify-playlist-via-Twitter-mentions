@@ -1,6 +1,6 @@
 # Auto generated Spotify playlist via Twitter mentions
 
-This is a basic script that allows you to add spotify tracks to your playlist based on twitter mentions. If the tweet contains a direct link to a track or the tracks Spotify URI it will add it to the playlist of choice. It will keep track of duplicates but other restraints can be implemented.
+This is a basic script that allows you to add spotify tracks to your playlist based on twitter mentions. If the tweet contains a direct link to a track or the tracks Spotify URI it will add it to the playlist of choice. It will keep track of duplicates but other restraints can be implemented. You must follow the bot in order for it to work but that can be changed if preferred.
 
 # Videos to watch first
 You will need to understand these videos first and install the API's. You will also need to make an account at <a href ="https://developer.twitter.com/">Twitter for developers</a> and <a href ="https://developer.spotify.com/">Spotify for developers</a>.
