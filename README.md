@@ -7,9 +7,9 @@ You will need to understand these videos first and install the API's. You will a
 
 <a href ="https://www.youtube.com/watch?v=W0wWwglE1Vc">How To Create A Twitter Bot With Python</a>
 
-<a href ="http://docs.tweepy.org/en/latest/">TWEEPY</a>
-
 <a href ="https://www.youtube.com/watch?v=tmt5SdvTqUI">LEARN SPOTIPY - A Lightweight Python Spotify Library</a>
+
+<a href ="http://docs.tweepy.org/en/latest/">TWEEPY</a>
 
 <a href ="https://spotipy.readthedocs.io/en/latest/">SPOTIPY</a>
 
